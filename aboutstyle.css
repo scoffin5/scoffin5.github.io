@@ -1,0 +1,59 @@
+﻿body {
+    background-color: mintcream;
+}
+h1{
+    text-align:center;
+    color: crimson;
+    text-decoration-line: underline;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: left;
+    margin: 20px;
+    color: crimson;
+    
+}
+h4{
+    text-align: left;
+    margin: 20px;
+    color: crimson;
+    
+}
+#school{
+    text-align: center;
+    width: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+ul{
+    list-style-type: none;
+}
+#Org{
+    display: block;
+    background-color: darkred;
+    color: mintcream;
+    width: 26%;
+    padding: 8px;
+    margin: 8px;
+}
+#fun{
+    display: block;
+    background-color: darkred;
+    color: mintcream;
+    width: 26%;
+    padding: 8px;
+    margin: 8px;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 400px;
+    position: relative;
+    top: -325px;
+}
+
