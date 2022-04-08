@@ -1,0 +1,17 @@
+﻿body {
+    background-color: mintcream;
+    
+}
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    color: crimson;
+}
+ul{
+    margin: 80px;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    margin: 40px;
+}
